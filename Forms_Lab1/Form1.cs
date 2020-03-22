@@ -19,12 +19,6 @@ namespace Forms_Lab1
             InitializeComponent();
         }
 
-        // private void Form1_load(object sender, EventArgs e)
-        // {
-        //     comboBox1.SelectedItem = null;
-        //     comboBox1.SelectedText = "---select---";
-        // }
-
         private void открытьToolStripMenuItem_Click(object sender, EventArgs e)
         {
             OpenFileDialog OpenDlg = new OpenFileDialog();
